@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # ChromeDriver
-chromedriver/*
+chromedriver/chromedriver.exe
 
 # identification info
 identification.py
